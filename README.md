@@ -3,4 +3,4 @@ This reposoitory is for daily leetcode problems solved by [me](https://github.co
 
 Each tasks-folder has a problem description and a solution.
 
-Solutions are written in `c++`.
+Solutions are written in `c++` and/or `python`.
